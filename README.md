@@ -15,3 +15,4 @@ This chat example showcases how to use `socket.io` with a static `express` serve
 http://demo-tungnsherokucom.c9users.io/
 
 # build-nodejs-first
+# rabbitmq-with-nodejs

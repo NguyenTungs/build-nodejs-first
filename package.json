@@ -6,8 +6,11 @@
   "repository": "",
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
+    "amqp": "^0.2.6",
+    "amqplib": "^0.4.2",
     "async": "~0.2.8",
     "express": "~3.2.4",
+    "guid": "0.0.12",
     "socket.io": "~0.9.14"
   }
 }
